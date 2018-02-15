@@ -1,0 +1,18 @@
+{
+  "name": "type-racer-bot",
+  "version": "1.0.0",
+  "description": "A bot made to race against humans on http://play.typeracer.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "type-racer-bot": "index.js"
+  },
+  "author": "tfKamran",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^2.44.0"
+  }
+}
