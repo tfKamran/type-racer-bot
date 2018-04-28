@@ -1,6 +1,6 @@
 {
   "name": "type-racer-bot",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A bot made to race against humans on http://play.typeracer.com/",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,10 @@
   "dependencies": {
     "selenium-webdriver": "^2.44.0"
   },
-  "keywords": "type,race,typeracer,bot"
+  "keywords": [
+    "type",
+    "race",
+    "typeracer",
+    "bot"
+  ]
 }
